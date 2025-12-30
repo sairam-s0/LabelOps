@@ -1,0 +1,27 @@
+# Smart Labeling System Dependencies
+# Core Requirements
+
+# Deep Learning
+torch>=2.0.0
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# GUI Framework
+PyQt6>=6.5.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Distributed Training (Optional but recommended)
+ray>=2.8.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional: CUDA support (install separately based on system)
+# Visit: https://pytorch.org/get-started/locally/
+# for CUDA-specific PyTorch installation instructions
