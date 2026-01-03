@@ -135,7 +135,7 @@ python test_system.py
 **They tell you:**
 - ✅ "Got grade A" = Perfect, ready to use
 - ⚠️ "Got grade B with GPU warning" = Works fine, just no GPU
-- ❌ "Got grade F" = Share the test_report.json file with you
+- ❌ "Got grade F" = Share the test_report.json file with me / raise an issue
 
 ### Testing Before Deployment
 
@@ -299,4 +299,4 @@ If tests fail consistently:
 
 ---
 
-**Remember:** Even if you get a **B grade with no GPU**, the system is fully functional! GPU just makes training faster. Ray works perfectly in both CPU and GPU modes. 🚀
+**Remember:** Even if you get a **B grade with no GPU**, the system is fully functional! GPU just makes training faster. Ray works perfectly in both CPU and GPU modes. 

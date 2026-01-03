@@ -255,7 +255,7 @@ Each training cycle requires fewer labels because the model gets better at knowi
 
 ## 📚 Documentation
 
-Full documentation available in the [Wiki](../../wiki):
+Full documentation available in the [GUID](./GUID.md):
 - **API Reference** - All classes and methods
 - **Configuration Guide** - Tune for your use case
 - **Troubleshooting** - Common issues solved
@@ -291,13 +291,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ---
 
 <p align="center">
-  <strong>Built with ❤️ for smarter annotation workflows</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/sairam-s0/LabelOps/issues">Report Bug</a> •
   <a href="https://github.com/sairam-s0/LabelOps/issues">Request Feature</a> •
-  <a href="../../wiki">Documentation</a>
 </p>
 
 ### Contribution Guidelines
@@ -334,17 +329,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
 
-- [ ] Multi-GPU training support
-- [ ] Web-based annotation interface
-- [ ] Integration with Label Studio
-- [ ] Automatic hyperparameter tuning
-- [ ] Support for segmentation models
-- [ ] Cloud training integration (AWS, GCP)
-- [ ] Model ensemble support
-- [ ] Active learning metrics dashboard
+- [ ] Multi-GPU training support                    ***coming soon***
+- [ ] Web-based annotation interface                ***coming soon***
+- [ ] Automatic hyperparameter tuning               ***coming soon***
+- [ ] Support for segmentation models               ***coming soon***
+- [ ] Cloud training integration (AWS, GCP)         ***coming soon***
+- [ ] Model ensemble support                        ***coming soon***
+- [ ] Active learning metrics dashboard             ***coming soon***
 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ by the Active Learning Community</strong>
+  <strong>pip installation support coming soon.</strong>
+</p>
+
+<p align="center">
+  <strong>Built to reduce manual data labeling.</strong>
 </p>
