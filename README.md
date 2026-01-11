@@ -1,10 +1,11 @@
-# LabelOps
-**LabelOps – A local-first AI-assisted data labeling system with continual learning and background model training.**
+# ActiveLabelingSystem
+*Formerly known as LabelOps*
+**ActiveLabelingSystem – A local-first AI-assisted data labeling system with continual learning and background model training.**
 <p align="center">
   <img src="./images/Logo.svg" width="400" alt="VyomaX Banner"/>
 </p>
 
-# LabelOps 
+# ActiveLabelingSystem 
 
 <p align="center">
   <strong>Stop labeling everything. Label what matters.</strong>
@@ -64,8 +65,8 @@ An intelligent active learning system that **reduces your labeling work by 60-80
 ### One-Command Setup
 
 ```bash
-git clone https://github.com/sairam-s0/LabelOps.git
-cd LabelOps/src
+git clone https://github.com/sairam-s0/ActiveLabelingSystem.git
+cd ActiveLabelingSystem/src
 python test_system.py
 ```
 
@@ -83,8 +84,8 @@ python test_system.py
 
 ```bash
 # Clone repo
-git clone https://github.com/sairam-s0/LabelOps.git
-cd LabelOps\src
+git clone https://github.com/sairam-s0/ActiveLabelingSystem.git
+cd ActiveLabelingSystem\src
 
 # Install dependencies
 pip install -r requirements.txt
@@ -184,7 +185,7 @@ The cycle continues - each round needs fewer labels as the model gets smarter.
 ## Project Structure
 
 ```
-labelops/
+ActiveLabelingSystem/
 ├── images/                     # Docs & UI screenshots
 │   ├── Logo.svg
 │   ├── gui_img.png
@@ -291,8 +292,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ---
 
 <p align="center">
-  <a href="https://github.com/sairam-s0/LabelOps/issues">Report Bug</a> •
-  <a href="https://github.com/sairam-s0/LabelOps/issues">Request Feature</a> •
+  <a href="https://github.com/sairam-s0/ActiveLabelingSystem/issues">Report Bug</a> •
+  <a href="https://github.com/sairam-s0/ActiveLabelingSystem/issues">Request Feature</a> •
 </p>
 
 ### Contribution Guidelines
@@ -322,7 +323,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: sairam.1242006@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/sairam-s0/LabelOps/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/sairam-s0/ActiveLabelingSystem/issues)
 - 📖 Docs: [Full Documentation](https://docs.example.com)
 
 ---
